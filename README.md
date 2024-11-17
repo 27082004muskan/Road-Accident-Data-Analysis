@@ -13,7 +13,7 @@ In this project, I have analyzed number of casualties per year in US ,Using Powe
  * Total Casualtiesand Total Accident by Location
 
    ## Dashboard -- >
-   <a href="">Dashboard </a>
+   <a href="https://github.com/27082004muskan/Road-Accident-Data-Analysis/blob/main/Road%20Accident%20Screenshot.png">Dashboard </a>
 
 
    
